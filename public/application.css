@@ -1,12 +1,12 @@
-form#form_hit {
-	float: left;
-	margin-right: 10px;
+form#hit_form {
+  float: left;
+  margin-right: 10px;
 }
 
-form#form_stay {
-	float: left;
+form#stay_form {
+  float: left;
 }
 
 img.card_image {
-	margin: opx 20px 20px opx; 
+  margin: 0px 5px 5px 0px;
 }
